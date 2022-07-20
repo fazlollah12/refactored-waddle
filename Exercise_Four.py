@@ -1,6 +1,5 @@
 # Test this sample, Remove # and see the results
-# -----------
-# print('My', 'Name', 'Is', 'James', sep='--')
+# ----------- print('My', 'Name', 'Is', 'James', sep='--')
 # -----------
 # num = 458.541315
 # print('%.2f' % num)

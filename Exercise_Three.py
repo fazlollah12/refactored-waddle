@@ -7,6 +7,9 @@
 # res = num1 * num2
 # print("Multiplication is", res)
 
+from re import X
+
+
 num1 = float(input("Enter first number "))
 num2 = float(input("Enter second number "))
 num3 = float(input("Enter third number "))
@@ -19,3 +22,6 @@ num9 = float(input("Enter ninth number "))
 num10 = float(input("Enter tenth number "))
 sum = (num1) + (num2) + (num3) + (num4) + (num5) + (num6) + (num7) + (num8) + (num9) + (num10)
 print("Sum of all numbers is", sum)
+
+
+
